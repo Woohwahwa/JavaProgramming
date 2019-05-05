@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BoundedType15",
+      "request": "launch",
+      "mainClass": "BoundedType15",
+      "projectName": "Java_cee6a229"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BoundedType",
+      "request": "launch",
+      "mainClass": "BoundedType",
+      "projectName": "Java_cee6a229"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GenericsTest14",
+      "request": "launch",
+      "mainClass": "GenericsTest14"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GenericsTest13",
+      "request": "launch",
+      "mainClass": "GenericsTest13"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ClassFromGeneric12",
+      "request": "launch",
+      "mainClass": "ClassFromGeneric12"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ClassFromGeneric",
+      "request": "launch",
+      "mainClass": "ClassFromGeneric"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - EnumTest2",
+      "request": "launch",
+      "mainClass": "EnumTest2"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GenericsTest3",
+      "request": "launch",
+      "mainClass": "GenericsTest3"
+    }
+  ]
+}
